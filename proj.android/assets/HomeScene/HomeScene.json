@@ -1,0 +1,404 @@
+{
+  "classname": "CCNode",
+  "name": "root",
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Background",
+      "canedit": true,
+      "objecttag": 10001,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 290,
+      "y": 327.59506225585938,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_earth_01.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Item_JiuGuan",
+      "canedit": true,
+      "objecttag": 10201,
+      "rotation": -20,
+      "scalex": 0.8,
+      "scaley": 0.8,
+      "visible": 1,
+      "x": -60.329994201660156,
+      "y": 558.73175048828125,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_jiuguan.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Item_Shop",
+      "canedit": true,
+      "objecttag": 10202,
+      "rotation": -10,
+      "scalex": 0.8,
+      "scaley": 0.8,
+      "visible": 1,
+      "x": 137.24005126953125,
+      "y": 909.08050537109375,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_shangdian.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Item_TiaoZhan",
+      "canedit": true,
+      "objecttag": 10203,
+      "rotation": 5,
+      "scalex": 0.8,
+      "scaley": 0.8,
+      "visible": 1,
+      "x": 481.579833984375,
+      "y": 729.64324951171875,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_wujintiaozhan.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Item_ZhanChang",
+      "canedit": true,
+      "objecttag": 10204,
+      "rotation": 0,
+      "scalex": 0.8,
+      "scaley": 0.8,
+      "visible": 1,
+      "x": 337.51608276367188,
+      "y": 254.17605590820313,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_zhanchang.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "Item_MaoXian",
+      "canedit": true,
+      "objecttag": 10205,
+      "rotation": 10,
+      "scalex": 0.8,
+      "scaley": 0.8,
+      "visible": 1,
+      "x": 815.36260986328125,
+      "y": 483.9599609375,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_fanchuan.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "qiqiu",
+      "canedit": true,
+      "objecttag": 10011,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": -72.5,
+      "y": 1055.8338623046875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_qiqiu.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "xuanwo",
+      "canedit": true,
+      "objecttag": 10017,
+      "rotation": 0,
+      "scalex": 0.799999952,
+      "scaley": 0.799999952,
+      "visible": 1,
+      "x": 793.33367919921875,
+      "y": 238.452392578125,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_xuanwo.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "yun_1",
+      "canedit": true,
+      "objecttag": 10012,
+      "rotation": -37,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": -273.33343505859375,
+      "y": 694.16717529296875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_yun_01.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "yun_2",
+      "canedit": true,
+      "objecttag": 10013,
+      "rotation": -23,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": -166.66671752929688,
+      "y": 830.83367919921875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_yun_02.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "yun_3",
+      "canedit": true,
+      "objecttag": 10014,
+      "rotation": 5,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 390.00021362304688,
+      "y": 854.16729736328125,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_yun_03.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "yun_4",
+      "canedit": true,
+      "objecttag": 10015,
+      "rotation": 31,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 726.6669921875,
+      "y": 600.83367919921875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_yun_04.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "yun_5",
+      "canedit": true,
+      "objecttag": 10016,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 276.66677856445312,
+      "y": 927.50054931640625,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "bg_yun_05.png",
+            "plistFile": "homeScene.plist",
+            "resourceType": 1
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 960,
+    "_width": 640
+  },
+  "Version": "1.1.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "HomeScene"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

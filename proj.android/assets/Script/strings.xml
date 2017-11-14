@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fight_tip</key>
+	<string>是否消耗1點陽光值挑戰該玩家?</string>
+	<key>input_tip</key>
+	<string>請輸入暱稱.</string>
+	<key>test</key>
+	<string>請輸入暱稱.</string>
+	<key>place_holder</key>
+	<string>請輸入..</string>    
+	<key>power_tip</key>
+	<string>你的陽光值不足，是否購買?</string>
+	<key>gem_tip</key>
+  	<string>你的寶石不足，是否購買?</string>
+	<key>buy_success</key>
+  	<string>購買成功.</string>
+	<key>continue_tip0</key>
+  	<string>一週連續簽到將得到1000金幣,當前已連續簽到</string>
+	<key>continue_tip1</key>
+  	<string>天</string>
+	<key>repeat_sign</key>
+  	<string>不能重複簽到</string>
+	<key>share_count0</key>
+  	<string>纍計次數: </string>
+	<key>share_count1</key>
+  	<string>次</string>
+    <key>share_default0</key>
+  	<string>我又刷新記錄了！在#水果英雄傳說#中挑戰達人，獲得了</string>
+	<key>share_default1</key>
+  	<string>分，終於證明自己能力！來比試比試！</string>      
+    <key>share_default_no_score</key>
+  	<string>我正在玩#水果英雄傳說#，夥伴們，來一起玩吧！</string>  
+    <key>cannot_pk</key>
+  	<string>你不能和自己PK.</string>
+	<key>gold_limit</key>
+  	<string>你的金幣數達到上限999999, 超出將不再增加.</string>
+	<key>gem_limit</key>
+  	<string>你的寶石數達到上限999999, 超出將不再增加.</string> 
+	<key>power_limit</key>
+  	<string>不能購買, 你的陽光值將超過上限99.</string>    
+	<key>cannot_get_prize</key>
+  	<string>你沒有獎品可以領取唷.</string>     
+	<key>no_net_connect</key>
+  	<string>沒有網路連接吖</string>      
+	<key>sign_success</key>
+  	<string>簽到成功!</string> 
+	<key>share_limit</key>
+  	<string>每天只能分享3次,請明天繼續分享吧.</string>    
+	<key>share_success</key>
+  	<string>分享成功.</string>    
+	<key>bprize1</key>
+  	<string>恭喜你獲得</string>
+	<key>bprize2</key>
+  	<string> 寶石:</string>    
+	<key>bprize3</key>
+  	<string> 金幣:</string>
+	<key>bprize4</key>
+  	<string> 屌絲炸彈:</string>   
+	<key>bprize5</key>
+  	<string> 土豪轟炸機:</string>    
+	<key>inspire_tip</key>
+  	<string>鼓舞效果將取消,確定繼續?</string>      
+	<key>prop_limit</key>
+  	<string>你的道具數達到上限999, 無法購買.</string>     
+    
+    <key>magicId_1</key>
+    <string>2倍傷害</string>
+    <key>magicId_2</key>
+    <string>直線贯穿</string>
+    <key>magicId_3</key>
+    <string>範圍中毒</string>
+    <key>magicId_4</key>
+    <string>火球連射</string>
+    <key>magicId_5</key>
+    <string>範圍減速</string>
+    <key>magicId_6</key>
+    <string>隨機地雷</string>
+    <key>magicId_7</key>
+    <string>範圍纏繞</string>
+    <key>magicId_8</key>
+    <string>連續反彈</string>
+    <key>magicId_9</key>
+    <string>範圍冰凍</string>
+    <key>magicId_10</key>
+    <string>三向散彈</string>
+    <key>magicId_11</key>
+    <string>範圍爆破</string>
+    
+    <key>magicId_20</key>
+    <string>拒敵千裏</string>
+    <key>magicId_21</key>
+    <string>幽靈船</string>
+    <key>magicId_22</key>
+    <string>魔幻樂章</string>
+    <key>magicId_23</key>
+    <string>冰封萬里</string>
+    <key>magicId_24</key>
+    <string>深淵地洞</string>
+    <key>magicId_25</key>
+    <string>炎爆火球</string>
+    <key>magicId_26</key>
+    <string>天外落石</string>
+    <key>magicId_27</key>
+    <string>未知</string>
+    
+    <key>tiaojian_1</key>
+    <string>默認解鎖</string>
+    <key>tiaojian_2</key>
+    <string>彩虹森林 關卡1通關</string>
+    <key>tiaojian_3</key>
+    <string>彩虹森林 關卡4通關</string>
+    <key>tiaojian_4</key>
+    <string>彩虹森林 關卡9通關</string>
+    <key>tiaojian_5</key>
+    <string>鑽石峽谷 關卡4通關</string>
+    <key>tiaojian_6</key>
+    <string>鑽石峽谷 關卡9通關</string>
+    <key>tiaojian_7</key>
+    <string>太阳沙漠 關卡4通關</string>
+    <key>tiaojian_8</key>
+    <string>寶石解鎖</string>
+    
+    <key>tiaojian_20</key>
+    <string>彩虹森林關卡5擊殺</string>
+    <key>tiaojian_21</key>
+    <string>彩虹森林關卡10擊殺</string>
+    <key>tiaojian_22</key>
+    <string>鑽石峽谷關卡5擊殺</string>
+    <key>tiaojian_23</key>
+    <string>鑽石峽谷關卡10擊殺</string>
+    <key>tiaojian_24</key>
+    <string>太阳沙漠關卡5擊殺</string>
+    <key>tiaojian_25</key>
+    <string>太阳沙漠關卡10擊殺</string>
+    <key>tiaojian_26</key>
+    <string>神秘果园關卡5擊殺</string>
+    <key>tiaojian_27</key>
+    <string>暫未開放</string>
+    
+    <key>lack_of_gold</key>
+    <string>金幣不足,前往補充?</string>
+    <key>lack_of_gem</key>
+    <string>寶石不足,前往補充?</string>
+    <key>max_grade_yet</key>
+    <string>等級已滿</string>
+    <key>unlock_pos</key>
+    <string>花費1個寶石，解鎖位置</string>
+    
+    <key>notification</key>
+    <string>您已經很長時間未登陸水果英雄傳說啦，您的水果君和寵物都想您了^_^</string>
+    
+</dict>
+</plist>
